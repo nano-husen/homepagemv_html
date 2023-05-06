@@ -1,0 +1,11 @@
+{
+    "name": "homepagemv/homepagemv_html",
+    "description": "This is for everyone who need it",
+    "authors": [
+        {
+            "name": "nano-husen",
+            "email": "husensocial@gmail.com"
+        }
+    ],
+    "require": {}
+}
